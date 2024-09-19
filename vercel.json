@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "framework": null,
-  "functions": {
-    "api/index.php": {
-      "runtime": "vercel-php@0.6.0"
+  "builds": [
+    {
+      "src": "api/*.php",
+      "use": "vercel-php@0.5.0"
     }
-  },
+  ],
   "routes": [
     {
       "src": "/(.*)",
@@ -14,9 +14,9 @@
   ],
   "env": {
     "APP_ENV": "production",
-    "APP_DEBUG": "true",
-    "APP_URL": "https://your.url.from.vercel.app",
-    "APP_KEY": "add API key here from your .env file",
+    "APP_DEBUG": "false",
+    "APP_URL": "https://khemraj-portfolio-e7i4twbzp-khem-rajs-projects.vercel.app/",
+    "APP_KEY": "base64:0YnsneyOZH7JzSXBv4q4AoC5EcD7ihUt3YsMHstgwSo=",
     "APP_CONFIG_CACHE": "/tmp/config.php",
     "APP_EVENTS_CACHE": "/tmp/events.php",
     "APP_PACKAGES_CACHE": "/tmp/packages.php",
