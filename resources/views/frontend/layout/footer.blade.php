@@ -1,5 +1,5 @@
 <footer class="flex flex-col items-center pb-10">
-  <p class="text-xs text-gray-300">Anurag Singh © 2024</p>
+  <p class="text-xs text-gray-300">vgfghjgfjhgj © 2024</p>
   <div class="black-logo my-4">
     <svg
       width="50"
