@@ -61,7 +61,7 @@
 <body>
     <div class="container">
         <div class="header">
-           <img src="logo-img" alt="logo-imgage">
+           <img src="logo-img" alt="logo-img">
         </div>
         <h1>Portfolio Contact Form Submission</h1>
         <p><strong>Name:</strong> {{ $name }}</p>
