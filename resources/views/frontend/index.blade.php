@@ -971,7 +971,8 @@
       <div class="w-full">
          <img src="./assets/images/contact-me.svg" alt="phone" />
       </div>
-      <form class="w-full" name="contactUS" netlify>
+      <form action="{{ route('contact.send') }}" method="POST" class="w-full" name="contactUS" netlify>
+            @csrf
          <label
             for="name"
             class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
@@ -999,7 +1000,8 @@
                name="name"
                class="bg-gray-50 border-2 outline-none border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-[#1788ae] focus:border-[#1788ae] block w-full ps-10 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white"
                placeholder="Enter your name"
-               />
+               required
+            />
          </div>
          <label
             for="email"
@@ -1031,6 +1033,7 @@
                name="email"
                class="bg-gray-50 border-2 outline-none border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-[#1788ae] focus:border-[#1788ae] block w-full ps-10 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white"
                placeholder="name@procodrr.com"
+               required
                />
          </div>
          <label
@@ -1056,6 +1059,11 @@
          Send
          </button>
       </form>
+      @if (session('success'))
+         <div class="alert alert-success d-block">
+            {{ session('success') }}
+         </div>
+      @endif
    </div>
 </section>
 @endsection
