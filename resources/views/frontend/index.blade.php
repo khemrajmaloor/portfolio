@@ -54,7 +54,7 @@
             >
             <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
          </svg>
-         <a href="tel:9824989238"
+         <a href="tel:858086885"
             >
             <svg
                xmlns="http://www.w3.org/2000/svg"
@@ -74,7 +74,7 @@
             </svg>
          </a>
          <a
-            href="https://wa.me/9824989238?text=Hi, How are you?"
+            href="https://wa.me/8580868845?text=Hi, How are you?"
             target="_blank"
             >
             <svg
@@ -135,17 +135,17 @@
             <h1
                class="pointer-events-none text-4xl md:text-[64px] font-['Spartan'] mr-12"
                >
-               DSKNGFDJKGNJOKJDSAFO
+               Khem Raj
             </h1>
             <p
                class="pointer-events-none font-['Merriweather'] italic my-4 md:my-8"
                >
-               KLDASJFSDHFSDGSDG
+               Backend Developer
             </p>
             <button
                class="bg-[#4595eb] py-2 px-5 rounded font-extrabold bg-gradient-to-l from-[#1595b6] to-[#1f2667e6] relative hover:scale-110 ease-in-out duration-100 group"
                >
-               SDGSDFGFSGFSDH
+               About me
                <svg
                   xmlns:dc="http://purl.org/dc/elements/1.1/"
                   xmlns:cc="http://creativecommons.org/ns#"
@@ -191,7 +191,7 @@
       <ul class="ml-auto space-y-6 text-[#b0b2c3] absolute right-8">
          <li>
             <a
-               href="https://www.linkedin.com/in/anuragsinghbam/"
+               href="https://www.linkedin.com/in/khem-raj/"
                target="_blank"
                >
                <svg
@@ -207,7 +207,7 @@
             </a>
          </li>
          <li>
-            <a href="https://twitter.com/anuragsinghbam" target="_blank">
+            <a href="https://twitter.com/khemraj" target="_blank">
                <svg
                   class="w-7 hover:text-white"
                   xmlns="http://www.w3.org/2000/svg"
@@ -221,7 +221,7 @@
             </a>
          </li>
          <li>
-            <a href="https://www.instagram.com/procodrr/">
+            <a href="https://www.instagram.com/comanndo_return/">
                <svg
                   class="w-7 hover:text-white"
                   xmlns="http://www.w3.org/2000/svg"
@@ -235,7 +235,7 @@
             </a>
          </li>
          <li>
-            <a href="mailto:anuragsinghbam@gmail.com" target="_blank">
+            <a href="mailto:khemrajraj73@@gmail.com" target="_blank">
                <svg
                   class="w-7 hover:text-white"
                   xmlns="http://www.w3.org/2000/svg"
@@ -249,7 +249,7 @@
             </a>
          </li>
          <li>
-            <a href="https://www.youtube.com/@procodrr">
+            <a href="https://www.youtube.com/@khemumalurwala">
                <svg
                   class="w-7 hover:text-white"
                   xmlns="http://www.w3.org/2000/svg"
