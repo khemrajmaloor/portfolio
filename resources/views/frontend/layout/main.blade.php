@@ -1,3 +1,3 @@
 @include('frontend.layout.header')
-@yield('main-section')
+@yield('content')
 @include('frontend.layout.footer')
