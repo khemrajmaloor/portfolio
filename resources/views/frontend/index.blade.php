@@ -1032,7 +1032,7 @@
                id="email"
                name="email"
                class="bg-gray-50 border-2 outline-none border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-[#1788ae] focus:border-[#1788ae] block w-full ps-10 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white"
-               placeholder="name@procodrr.com"
+               placeholder="name@rajor.com"
                required
                />
          </div>
@@ -1058,12 +1058,13 @@
             >
          Send
          </button>
+         @if (session('success'))
+            <div class="p-4 mb-4 text-sm text-green-800 rounded-lg bg-green-50 dark:bg-gray-800 dark:text-green-400 animate-fade-out-15s" role="alert">
+               <span class="font-medium">Success alert!</span> {{ session('success') }}
+            </div>
+         @endif
       </form>
-      @if (session('success'))
-         <div class="alert alert-success d-block">
-            {{ session('success') }}
-         </div>
-      @endif
+    
    </div>
 </section>
 @endsection
