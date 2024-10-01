@@ -1,7 +1,7 @@
 {{-- Latest work section here.. --}}
 <section class="max-w-screen-xl mx-auto px-4 relative pb-8 sm:pb-16">
     <h2
-        class="text-3xl sm:text-[40px] bg-[#111] relative z-10 font-bold px-4 py-2 w-max mx-auto text-center text-[#1788ae] sm:border-b-2 border-[#1788ae]">
+        class="text-3xl sm:text-[40px] bg-[#111] relative z-10 font-bold px-4 py-2 w-max mx-auto text-center text-[#1788ae] sm:border-b-2 border-[#1788ae]" >
         Latest Works
     </h2>
     <div class="flex flex-col sm:flex-row gap-4 mt-8 sm:gap-[80px] items-center sm:mt-20 relative">
