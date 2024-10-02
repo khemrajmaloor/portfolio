@@ -109,7 +109,7 @@
     <div class="absolute inset-0 hidden md:block" id="wrapper-canvas"></div>
     <div class="flex -mt-10 relative">
         <div class="w-full px-4 max-w-screen-xl mx-auto">
-            <svg viewBox="0 0 406 368" fill="none" xmlns="http://www.w3.org/2000/svg"
+            {{-- <svg viewBox="0 0 406 368" fill="none" xmlns="http://www.w3.org/2000/svg"
                 class="pointer-events-none absolute top-0 left-1/2 -translate-y-[80px] sm:-translate-y-[180px] -translate-x-1/2 w-[300px] sm:w-[400px] md:w-[650px]">
                 <path
                     d="M314.899 203.5L314.899 349.43L162.5 209.053M314.899 203.5L283.037 203.586M314.899 203.5L337.881 203.586L381 171.109L314.899 171.109M162.5 209.053L118.044 170.96L157.5 171.109M162.5 209.053L65.5 301.465L20.5595 301.465L137.482 189.156M200.5 171.109L283.037 96.5L283.037 171.109M200.5 171.109L283.037 171.109M200.5 171.109L157.5 171.109M283.037 203.586L210.846 203.123L283.037 271.086L283.037 203.586ZM283.037 171.109L314.899 171.109M157.5 171.109L316.135 20.4322L314.899 171.109"
@@ -124,8 +124,8 @@
                         <stop offset="1" stop-color="#1595B6" stop-opacity="0" />
                     </linearGradient>
                 </defs>
-            </svg>
-            {{-- <svg viewBox="0 0 406 368" fill="none" xmlns="http://www.w3.org/2000/svg" class="pointer-events-none absolute top-0 left-1/2 -translate-y-[90px]  -translate-x-1/4 w-[300px] sm:w-[400px] md:w-[650px] ">
+            </svg> --}}
+            <svg viewBox="0 0 406 368" fill="none" xmlns="http://www.w3.org/2000/svg" class="pointer-events-none absolute top-0 left-1/2 -translate-y-[90px]  -translate-x-1/4 w-[300px] sm:w-[400px] md:w-[650px] ">
                 <path d="M0 0V176H40V117L52 104L111 176H163L81 78L153 5.5C149.5 3 142 0 136 0H107L39.5 69L40 0H0Z"
                     fill="url(#paint0_linear_24_52)" />
                 <path d="M51 0V40L91 0H51Z" fill="url(#paint1_linear_24_52)" />
@@ -156,7 +156,7 @@
                         <stop offset="1" stop-color="#194574" />
                     </linearGradient>
                 </defs>
-            </svg> --}}
+            </svg>
             {{-- <svg viewBox="0 0 406 368" fill="none" xmlns="http://www.w3.org/2000/svg"
                 class="pointer-events-none absolute top-0 left-1/2 -translate-y-[90px]  -translate-x-1/4 w-[300px] sm:w-[400px] md:w-[650px] ">
                 <path d="M2 2V178H42V119L54 106L113 178H165L83 80L155 7.5C151.5 5 144 2 138 2H109L41.5 71L42 2H2Z"

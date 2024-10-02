@@ -4,7 +4,7 @@ function windowScrollDown(){
   var latest_work = document.getElementById('letest_work');
   latest_work.addEventListener('click', function() {
 
-    var scrollDistance = window.innerWidth <= 768 ? 400 : 530; // 400px for mobile, 500px for desktop
+    var scrollDistance = window.innerWidth <= 768 ? 400 : 600; // 400px for mobile, 500px for desktop
     window.scrollTo({
       top: scrollDistance, 
       left: 0,  
