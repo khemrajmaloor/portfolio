@@ -59,7 +59,7 @@ function runMatter() {
     Math.max(dimensions.width / 25, dimensions.height / 25) / 2,
     {
       render: {
-        fillStyle: `#000`,
+        fillStyle: `#FFD700`,
         strokeStyle: `#000`,
         lineWidth: 0,
       },
@@ -99,7 +99,7 @@ function runMatter() {
         frictionAir: 0.02,
         angle: Math.round(Math.random() * 360),
         render: {
-          fillStyle: "#222222",
+          fillStyle: "red",
           strokeStyle: `#000000`,
           lineWidth: 2,
         },

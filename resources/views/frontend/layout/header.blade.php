@@ -22,6 +22,9 @@
              background-color: white;
              color: #111;
          }
+         svg{
+            color: #3FFD700;
+         }
      </style>
  </head>
 

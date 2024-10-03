@@ -36,7 +36,7 @@
                 </linearGradient>
             </defs>
         </svg> --}}
-        <svg width="70" height="70" viewBox="0 0 406 368" fill="none" xmlns="http://www.w3.org/2000/svg">
+        {{-- <svg width="70" height="70" viewBox="0 0 406 368" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
             <path d="M2 2V178H42V119L54 106L113 178H165L83 80L155 7.5C151.5 5 144 2 138 2H109L41.5 71L42 2H2Z"
                 stroke="url(#paint0_linear_23_2)" stroke-width="4" />
             <path d="M53 2V42L93 2H53Z" stroke="url(#paint1_linear_23_2)" stroke-width="4" />
@@ -66,7 +66,39 @@
                     <stop offset="1" stop-color="#194574" />
                 </linearGradient>
             </defs>
+        </svg> --}}
+        <svg width="70" height="70" viewBox="0 0 406 368" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+            <path d="M2 2V178H42V119L54 106L113 178H165L83 80L155 7.5C151.5 5 144 2 138 2H109L41.5 71L42 2H2Z"
+                stroke="url(#paint0_linear_23_2)" stroke-width="4" />
+            <path d="M53 2V42L93 2H53Z" stroke="url(#paint1_linear_23_2)" stroke-width="4" />
+            <path d="M166 10L137 40C168.2 55.2 148 81 133 81H97L177 178H216L160.5 112C218.9 69.6 188.5 26.3333 166 10Z"
+                stroke="url(#paint2_linear_23_2)" stroke-width="4" />
+            <path d="M54 131.492V178H99L86.3301 163.881L57.3159 129L54 131.492Z" stroke="url(#paint3_linear_23_2)"
+                stroke-width="4" />
+            <defs>
+                <linearGradient id="paint0_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502"
+                    gradientUnits="userSpaceOnUse">
+                    <stop stop-color="#FFD700" /> <!-- Yellow -->
+                    <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+                </linearGradient>
+                <linearGradient id="paint1_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502"
+                    gradientUnits="userSpaceOnUse">
+                    <stop stop-color="#FFD700" /> <!-- Yellow -->
+                    <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+                </linearGradient>
+                <linearGradient id="paint2_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502"
+                    gradientUnits="userSpaceOnUse">
+                    <stop stop-color="#FFD700" /> <!-- Yellow -->
+                    <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+                </linearGradient>
+                <linearGradient id="paint3_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502"
+                    gradientUnits="userSpaceOnUse">
+                    <stop stop-color="#FFD700" /> <!-- Yellow -->
+                    <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+                </linearGradient>
+            </defs>
         </svg>
+        
         <div class="flex gap-4 pointer-events-auto">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
                 stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
@@ -125,7 +157,7 @@
                     </linearGradient>
                 </defs>
             </svg> --}}
-            <svg viewBox="0 0 406 368" fill="none" xmlns="http://www.w3.org/2000/svg" class="pointer-events-none absolute top-0 left-1/2 -translate-y-[90px]  -translate-x-1/4 w-[300px] sm:w-[400px] md:w-[650px] ">
+            {{-- <svg viewBox="0 0 406 368" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="pointer-events-none absolute top-0 left-1/2 -translate-y-[90px]  -translate-x-1/4 w-[300px] sm:w-[400px] md:w-[650px] ">
                 <path d="M0 0V176H40V117L52 104L111 176H163L81 78L153 5.5C149.5 3 142 0 136 0H107L39.5 69L40 0H0Z"
                     fill="url(#paint0_linear_24_52)" />
                 <path d="M51 0V40L91 0H51Z" fill="url(#paint1_linear_24_52)" />
@@ -156,8 +188,37 @@
                         <stop offset="1" stop-color="#194574" />
                     </linearGradient>
                 </defs>
+            </svg> --}}
+            <svg viewBox="0 0 406 368" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="pointer-events-none absolute top-0 left-1/2 -translate-y-[90px] -translate-x-1/4 w-[300px] sm:w-[400px] md:w-[650px]">
+                <path d="M0 0V176H40V117L52 104L111 176H163L81 78L153 5.5C149.5 3 142 0 136 0H107L39.5 69L40 0H0Z"
+                    fill="url(#paint0_linear_24_52)" />
+                <path d="M51 0V40L91 0H51Z" fill="url(#paint1_linear_24_52)" />
+                <path
+                    d="M164 8L135 38C166.2 53.2 146 79 131 79H95L175 176H214L158.5 110C216.9 67.6 186.5 24.3333 164 8Z"
+                    fill="url(#paint2_linear_24_52)" />
+                <path d="M52 129.492V176H97L84.3301 161.881L55.3159 127L52 129.492Z"
+                    fill="url(#paint3_linear_24_52)" />
+                <defs>
+                    <linearGradient id="paint0_linear_24_52" x1="33.4811" y1="12.2945" x2="71.7676" y2="184.502" gradientUnits="userSpaceOnUse">
+                        <stop stop-color="#FFD700" /> <!-- Yellow -->
+                        <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+                    </linearGradient>
+                    <linearGradient id="paint1_linear_24_52" x1="33.4811" y1="12.2945" x2="71.7676" y2="184.502" gradientUnits="userSpaceOnUse">
+                        <stop stop-color="#FFD700" /> <!-- Yellow -->
+                        <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+                    </linearGradient>
+                    <linearGradient id="paint2_linear_24_52" x1="33.4811" y1="12.2945" x2="71.7676" y2="184.502" gradientUnits="userSpaceOnUse">
+                        <stop stop-color="#FFD700" /> <!-- Yellow -->
+                        <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+                    </linearGradient>
+                    <linearGradient id="paint3_linear_24_52" x1="33.4811" y1="12.2945" x2="71.7676" y2="184.502" gradientUnits="userSpaceOnUse">
+                        <stop stop-color="#FFD700" /> <!-- Yellow -->
+                        <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+                    </linearGradient>
+                </defs>
             </svg>
-            {{-- <svg viewBox="0 0 406 368" fill="none" xmlns="http://www.w3.org/2000/svg"
+{{--             
+            <svg viewBox="0 0 406 368" fill="currentColor" xmlns="http://www.w3.org/2000/svg"
                 class="pointer-events-none absolute top-0 left-1/2 -translate-y-[90px]  -translate-x-1/4 w-[300px] sm:w-[400px] md:w-[650px] ">
                 <path d="M2 2V178H42V119L54 106L113 178H165L83 80L155 7.5C151.5 5 144 2 138 2H109L41.5 71L42 2H2Z"
                     stroke="url(#paint0_linear_23_2)" stroke-width="4" />
@@ -190,6 +251,37 @@
                     </linearGradient>
                 </defs>
             </svg> --}}
+ {{-- <svg viewBox="0 0 406 368" fill="currentColor" xmlns="http://www.w3.org/2000/svg"
+    class="pointer-events-none absolute top-0 left-1/2 -translate-y-[90px] -translate-x-1/4 w-[300px] sm:w-[400px] md:w-[650px]">
+    <path d="M2 2V178H42V119L54 106L113 178H165L83 80L155 7.5C151.5 5 144 2 138 2H109L41.5 71L42 2H2Z"
+        stroke="url(#paint0_linear_23_2)" stroke-width="4" />
+    <path d="M53 2V42L93 2H53Z" stroke="url(#paint1_linear_23_2)" stroke-width="4" />
+    <path
+        d="M166 10L137 40C168.2 55.2 148 81 133 81H97L177 178H216L160.5 112C218.9 69.6 188.5 26.3333 166 10Z"
+        stroke="url(#paint2_linear_23_2)" stroke-width="4" />
+    <path d="M54 131.492V178H99L86.3301 163.881L57.3159 129L54 131.492Z" stroke="url(#paint3_linear_23_2)"
+        stroke-width="4" />
+    <defs>
+        <linearGradient id="paint0_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFD700" /> <!-- Yellow -->
+            <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+        </linearGradient>
+        <linearGradient id="paint1_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFD700" /> <!-- Yellow -->
+            <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+        </linearGradient>
+        <linearGradient id="paint2_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFD700" /> <!-- Yellow -->
+            <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+        </linearGradient>
+        <linearGradient id="paint3_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFD700" /> <!-- Yellow -->
+            <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+        </linearGradient>
+    </defs>
+</svg>
+ --}}
+
 
 
             <div class="relative ml-4 md:ml-12">
@@ -202,7 +294,7 @@
 
                 </p>
                 <button
-                    class="bg-[#4595eb] py-2 px-5 rounded font-extrabold bg-gradient-to-l from-[#1595b6] to-[#1f2667e6] relative hover:scale-110 ease-in-out duration-100 group">
+                    class="bg-[#FFD700] py-2 px-5 rounded font-extrabold bg-gradient-to-l from-[#FFD700] to-[#1f2667e6] relative hover:scale-110 ease-in-out duration-100 group">
                     About me
                     <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
                         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
@@ -277,7 +369,7 @@
     <div
         class="relative self-center after:content-[''] after:absolute after:w-[2px] after:h-5 after:bg-[#444] after:left-1/2 after:-translate-x-1/2 after:top-[100px]" id="letest_work">
         <button
-            class="bg-[#4595eb] py-2 px-5 rounded font-extrabold bg-gradient-to-l from-[#1595b6] to-[#1f2667e6] relative hover:scale-110 ease-in-out duration-100 group mb-20">
+            class="bg-[#FFD700] py-2 px-5 rounded font-extrabold bg-gradient-to-l from-[#FFD700] to-[#1f2667e6] relative hover:scale-110 ease-in-out duration-100 group mb-20">
             Latest Works
             <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
                 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
