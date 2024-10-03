@@ -12,7 +12,7 @@
      <style>
          /* Default light mode styles */
          body {
-             background-color: #111;
+             background-color: black; 
              color: white;
              font-family: 'Nunito', sans-serif;
          }

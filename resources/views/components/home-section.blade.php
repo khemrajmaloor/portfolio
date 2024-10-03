@@ -78,23 +78,24 @@
             <defs>
                 <linearGradient id="paint0_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502"
                     gradientUnits="userSpaceOnUse">
-                    <stop stop-color="#FFD700" /> <!-- Yellow -->
-                    <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+                    {{-- linear-gradient(135deg,#ff0a6c,#2d27ff) --}}
+                    <stop stop-color="#ff0a6c" /> <!-- Yellow -->
+                    <stop offset="1" stop-color="#2d27ff" /> <!-- Dark Orange -->
                 </linearGradient>
                 <linearGradient id="paint1_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502"
                     gradientUnits="userSpaceOnUse">
-                    <stop stop-color="#FFD700" /> <!-- Yellow -->
-                    <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+                    <stop stop-color="#ff0a6c" /> <!-- Yellow -->
+                    <stop offset="1" stop-color="#2d27ff" /> <!-- Dark Orange -->
                 </linearGradient>
                 <linearGradient id="paint2_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502"
                     gradientUnits="userSpaceOnUse">
-                    <stop stop-color="#FFD700" /> <!-- Yellow -->
-                    <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+                    <stop stop-color="#ff0a6c" /> <!-- Yellow -->
+                    <stop offset="1" stop-color="#2d27ff" /> <!-- Dark Orange -->
                 </linearGradient>
                 <linearGradient id="paint3_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502"
                     gradientUnits="userSpaceOnUse">
-                    <stop stop-color="#FFD700" /> <!-- Yellow -->
-                    <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+                    <stop stop-color="#ff0a6c" /> <!-- Yellow -->
+                    <stop offset="1" stop-color="#2d27ff" /> <!-- Dark Orange -->
                 </linearGradient>
             </defs>
         </svg>
@@ -200,20 +201,20 @@
                     fill="url(#paint3_linear_24_52)" />
                 <defs>
                     <linearGradient id="paint0_linear_24_52" x1="33.4811" y1="12.2945" x2="71.7676" y2="184.502" gradientUnits="userSpaceOnUse">
-                        <stop stop-color="#FFD700" /> <!-- Yellow -->
-                        <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+                        <stop stop-color="#ff0a6c" /> <!-- Yellow -->
+                        <stop offset="1" stop-color="#2d27ff" /> <!-- Dark Orange -->
                     </linearGradient>
                     <linearGradient id="paint1_linear_24_52" x1="33.4811" y1="12.2945" x2="71.7676" y2="184.502" gradientUnits="userSpaceOnUse">
-                        <stop stop-color="#FFD700" /> <!-- Yellow -->
-                        <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+                        <stop stop-color="#ff0a6c" /> <!-- Yellow -->
+                        <stop offset="1" stop-color="#2d27ff" /> <!-- Dark Orange -->
                     </linearGradient>
                     <linearGradient id="paint2_linear_24_52" x1="33.4811" y1="12.2945" x2="71.7676" y2="184.502" gradientUnits="userSpaceOnUse">
-                        <stop stop-color="#FFD700" /> <!-- Yellow -->
-                        <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+                        <stop stop-color="#ff0a6c" /> <!-- Yellow -->
+                        <stop offset="1" stop-color="#2d27ff" /> <!-- Dark Orange -->
                     </linearGradient>
                     <linearGradient id="paint3_linear_24_52" x1="33.4811" y1="12.2945" x2="71.7676" y2="184.502" gradientUnits="userSpaceOnUse">
-                        <stop stop-color="#FFD700" /> <!-- Yellow -->
-                        <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+                        <stop stop-color="#ff0a6c" /> <!-- Yellow -->
+                        <stop offset="1" stop-color="#2d27ff" /> <!-- Dark Orange -->
                     </linearGradient>
                 </defs>
             </svg>
@@ -264,19 +265,19 @@
     <defs>
         <linearGradient id="paint0_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502" gradientUnits="userSpaceOnUse">
             <stop stop-color="#FFD700" /> <!-- Yellow -->
-            <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+            <stop offset="1" stop-color="#2d27ff" /> <!-- Dark Orange -->
         </linearGradient>
         <linearGradient id="paint1_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502" gradientUnits="userSpaceOnUse">
             <stop stop-color="#FFD700" /> <!-- Yellow -->
-            <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+            <stop offset="1" stop-color="#2d27ff" /> <!-- Dark Orange -->
         </linearGradient>
         <linearGradient id="paint2_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502" gradientUnits="userSpaceOnUse">
             <stop stop-color="#FFD700" /> <!-- Yellow -->
-            <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+            <stop offset="1" stop-color="#2d27ff" /> <!-- Dark Orange -->
         </linearGradient>
         <linearGradient id="paint3_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502" gradientUnits="userSpaceOnUse">
             <stop stop-color="#FFD700" /> <!-- Yellow -->
-            <stop offset="1" stop-color="#FF8C00" /> <!-- Dark Orange -->
+            <stop offset="1" stop-color="#2d27ff" /> <!-- Dark Orange -->
         </linearGradient>
     </defs>
 </svg>
@@ -293,8 +294,9 @@
                     Where does it come from? Where does it come Where does it come from? Where does it come from?
 
                 </p>
+                 {{-- linear-gradient(135deg,#ff0a6c,#2d27ff) --}}
                 <button
-                    class="bg-[#FFD700] py-2 px-5 rounded font-extrabold bg-gradient-to-l from-[#FFD700] to-[#1f2667e6] relative hover:scale-110 ease-in-out duration-100 group">
+                    class="bg-[#ff0a6c] py-2 px-5 rounded font-extrabold bg-gradient-to-l from-[#ff0a6c] to-[#1f2667e6] relative hover:scale-110 ease-in-out duration-100 group">
                     About me
                     <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
                         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
@@ -369,7 +371,7 @@
     <div
         class="relative self-center after:content-[''] after:absolute after:w-[2px] after:h-5 after:bg-[#444] after:left-1/2 after:-translate-x-1/2 after:top-[100px]" id="letest_work">
         <button
-            class="bg-[#FFD700] py-2 px-5 rounded font-extrabold bg-gradient-to-l from-[#FFD700] to-[#1f2667e6] relative hover:scale-110 ease-in-out duration-100 group mb-20">
+            class="bg-[#FFD700] py-2 px-5 rounded font-extrabold bg-gradient-to-l from-[#2d27ff] to-[#ff0a6c] relative hover:scale-110 ease-in-out duration-100 group mb-20">
             Latest Works
             <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
                 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"

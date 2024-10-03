@@ -11,8 +11,13 @@
         </div>
         <a href="https://procodrr.com" class="flex w-full relative justify-center sm:justify-start">
             <div class="flex flex-col items-center relative group sm:hover:scale-105 ease-in-out duration-200">
-                <img class="max-w-[400px] w-full mr-auto relative z-10 drop-shadow-[0_0px_60px_rgba(59,130,246,0.6)]"
-                    {{-- src="./assets/images/ProCodrr.webp" --}} src="{{ url('/assets/images/ProCodrr.webp') }}" alt="" />
+                {{-- <img class="max-w-[400px] w-full mr-auto relative z-10 drop-shadow-[0_0px_60px_rgba(59,130,246,0.6)]"
+                   src="{{ url('/assets/images/ProCodrr.webp') }}" alt="" /> --}}
+                    <div class="relative max-w-[400px] w-full mr-auto z-10">
+                        <img class="relative z-20" src="{{ url('/assets/images/ProCodrr.webp') }}" alt="" />
+                        <div class="absolute top-0 left-0 w-full h-full z-10 rounded-[inherit] drop-shadow-[0px_0px_60px_rgba(59,130,246,0.6)]" style="filter: blur(150px); background: linear-gradient(135deg, #ff0a6c -16.8%, #2d27ff 138.64%);"></div>
+                    </div>
+                    {{-- linear-gradient(135deg, #ff0a6c -16.8%, #2d27ff 138.64% --}}
                 <span
                     class="flex group-hover:-top-14 ease-jump duration-200 bg-[#459bd5] sm:absolute left-1/2 sm:-translate-x-1/2 top-5 px-2 py-1 text-sm sm:text-base mt-2 rounded w-max items-center gap-1 after:hidden sm:after:block after:w-4 after:h-4 after:bg-inherit after:absolute after:left-1/2 after:-translate-x-1/2 after:rotate-45 after:-bottom-2">
                     ProCodrr
@@ -241,8 +246,11 @@
         <a href="#" class="order-1 sm:order-2 flex w-full relative justify-center sm:justify-start">
             <div
                 class="flex flex-col items-center relative group sm:hover:scale-105 ease-in-out duration-200 sm:ml-auto">
-                <img class="max-w-[400px] w-full relative z-10 drop-shadow-[0_0px_60px_rgba(59,130,246,0.6)]"
-                    src="./assets/images/web-dev-english.webp" alt="" />
+                <div class="relative max-w-[400px] w-full mr-auto z-10">
+                    <img class="relative z-20" src="{{ url('/assets/images/ProCodrr.webp') }}" alt="" />
+                    <div class="absolute top-0 left-0 w-full h-full z-10 rounded-[inherit] drop-shadow-[0px_0px_60px_rgba(59,130,246,0.6)]" style="filter: blur(150px); background: linear-gradient(135deg, #ff0a6c -16.8%, #2d27ff 138.64%);"></div>
+                </div>
+                
                 <span
                     class="flex group-hover:-top-14 ease-jump duration-200 bg-[#47afa1] sm:absolute left-1/2 sm:-translate-x-1/2 top-5 px-2 py-1 text-sm sm:text-base mt-2 rounded w-max items-center gap-1 after:hidden sm:after:block after:w-4 after:h-4 after:bg-inherit after:absolute after:left-1/2 after:-translate-x-1/2 after:rotate-45 after:-bottom-2">
                     Web Dev English
