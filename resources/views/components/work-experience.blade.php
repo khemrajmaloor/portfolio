@@ -1,14 +1,14 @@
 {{-- Work experience section here.. --}}
 <section class="max-w-screen-xl mx-auto pb-12">
     <h2
-        class="text-3xl sm:text-[40px] bg-[#111] sm:w-max relative z-10 font-bold px-4 py-2 mx-auto text-center text-[#1788ae] sm:border-2 border-[#1788ae] rounded-md">
+        class="text-3xl sm:text-[40px] bg-[#111] sm:w-max relative z-10 font-bold px-4 py-2 mx-auto text-center text-[#5a40e8] sm:border-2 border-[#5a40e8] rounded-md">
         What my clients are saying?
     </h2>
     <div class="swiper mySwiper !py-14">
         <div class="swiper-wrapper items-center">
             <div class="swiper-slide px-4">
                 <div
-                    class="flex flex-col md:flex-row w-full md:max-w-[800px] items-center rounded-lg p-9 shadow-[0_0px_50px_rgba(59,130,246,0.6)] cursor-grab">
+                    class="flex flex-col md:flex-row w-full md:max-w-[800px] items-center rounded-lg p-9 shadow-[0_0px_50px_rgba(59,56,246,0.3)] cursor-grab">
                     <img class="shrink-0 w-[120px] h-[120px] md:w-[180px] md:h-[180px] rounded-full drop-shadow-[0_0px_80px_rgba(59,130,246,1)]"
                         src="/assets/images/saatvik.webp" alt="testimonial 3" />
                     <div class="testimonial-text ml-6 text-left pt-6 md:pt-16 relative">
@@ -20,10 +20,10 @@
                             skills in the field, and I hope to see all the great projects
                             coming up!”
                         </p>
-                        <h2 class="text-right text-[#459bd5] font-bold text-2xl md:text-4xl">
+                        <h2 class="text-right text-[#5a40e8] font-bold text-2xl md:text-4xl">
                             Saatvik Nagpal
                         </h2>
-                        <h5 class="text-right text-[#459bd5] text-base md:text-lg">
+                        <h5 class="text-right text-[#5a40e8] text-base md:text-lg">
                             Founder, EazyGrad
                         </h5>
                     </div>
@@ -31,7 +31,7 @@
             </div>
             <div class="swiper-slide px-4">
                 <div
-                    class="flex flex-col md:flex-row max-w-[800px] items-center rounded-lg p-9 shadow-[0_0px_50px_rgba(59,130,246,0.6)] cursor-grab">
+                    class="flex flex-col md:flex-row max-w-[800px] items-center rounded-lg p-9 shadow-[0_0px_50px_rgba(59,56,246,0.3)] cursor-grab">
                     <img class="shrink-0 w-[120px] h-[120px] md:w-[180px] md:h-[180px] rounded-full drop-shadow-[0_0px_80px_rgba(59,130,246,1)]"
                         src="/assets/images/kira.webp" alt="testimonial 3" />
                     <div class="testimonial-text ml-6 text-left pt-6 md:pt-16 relative">
@@ -42,10 +42,10 @@
                             helping my business grow, and I will definitely work with him
                             again!”
                         </p>
-                        <h2 class="text-right text-[#459bd5] font-bold text-2xl md:text-4xl">
+                        <h2 class="text-right text-[#5a40e8] font-bold text-2xl md:text-4xl">
                             Kira Bragg
                         </h2>
-                        <h5 class="text-right text-[#459bd5] text-base md:text-lg">
+                        <h5 class="text-right text-[#5a40e8] text-base md:text-lg">
                             English Mentor
                         </h5>
                     </div>
@@ -53,7 +53,7 @@
             </div>
             <div class="swiper-slide px-4">
                 <div
-                    class="flex flex-col md:flex-row max-w-[800px] items-center rounded-lg p-9 shadow-[0_0px_50px_rgba(59,130,246,0.6)] cursor-grab">
+                    class="flex flex-col md:flex-row max-w-[800px] items-center rounded-lg p-9 shadow-[0_0px_50px_rgba(59,56,246,0.3)] cursor-grab">
                     <img class="shrink-0 w-[120px] h-[120px] md:w-[180px] md:h-[180px] rounded-full drop-shadow-[0_0px_80px_rgba(59,130,246,1)]"
                         src="/assets/images/Srihari.webp" alt="testimonial 3" />
                     <div class="testimonial-text ml-6 text-left pt-6 md:pt-16 relative">
@@ -62,10 +62,10 @@
                             looking at his work ethic and dedication. Working with him was
                             the best decision I made.”
                         </p>
-                        <h2 class="text-right text-[#459bd5] font-bold text-2xl md:text-4xl">
+                        <h2 class="text-right text-[#5a40e8] font-bold text-2xl md:text-4xl">
                             Srihari Kestur
                         </h2>
-                        <h5 class="text-right text-[#459bd5] text-base md:text-lg">
+                        <h5 class="text-right text-[#5a40e8] text-base md:text-lg">
                             Founder Harigurus
                         </h5>
                     </div>

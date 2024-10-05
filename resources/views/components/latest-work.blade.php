@@ -1,13 +1,14 @@
 {{-- Latest work section here.. --}}
+
 <section class="max-w-screen-xl mx-auto px-4 relative pb-8 sm:pb-16">
     <h2
-        class="text-3xl sm:text-[40px] bg-[#111] relative z-10 font-bold px-4 py-2 w-max mx-auto text-center text-[#1788ae] sm:border-b-2 border-[#1788ae]" >
+        class="text-3xl sm:text-[40px] bg-[#111] relative z-10 font-bold px-4 py-2 w-max mx-auto text-center text-[#f936d9] sm:border-b-2 border-[#f936d9]" >
         Latest Works
     </h2>
     <div class="flex flex-col sm:flex-row gap-4 mt-8 sm:gap-[80px] items-center sm:mt-20 relative">
-        <div class="h-[1px] left-1/4 right-1/2 bg-[#1788ae] absolute top-1/2 hidden sm:block"></div>
+        <div class="h-[1px] left-1/4 right-1/2 bg-[#f936d9] absolute top-1/2 hidden sm:block"></div>
         <div
-            class="w-4 h-4 rounded-full border-[3px] border-[#459bd5] absolute left-1/2 -translate-x-1/2 bg-[#111] z-10 hover:scale-110 ease-in-out duration-100 hidden sm:block">
+            class="w-4 h-4 rounded-full border-[3px] border-[#5a40e8] absolute left-1/2 -translate-x-1/2 bg-[#111] z-10 hover:scale-110 ease-in-out duration-100 hidden sm:block">
         </div>
         <a href="https://procodrr.com" class="flex w-full relative justify-center sm:justify-start">
             <div class="flex flex-col items-center relative group sm:hover:scale-105 ease-in-out duration-200">
@@ -15,11 +16,11 @@
                    src="{{ url('/assets/images/ProCodrr.webp') }}" alt="" /> --}}
                     <div class="relative max-w-[400px] w-full mr-auto z-10">
                         <img class="relative z-20" src="{{ url('/assets/images/ProCodrr.webp') }}" alt="" />
-                        <div class="absolute top-0 left-0 w-full h-full z-10 rounded-[inherit] drop-shadow-[0px_0px_60px_rgba(59,130,246,0.6)]" style="filter: blur(150px); background: linear-gradient(135deg, #ff0a6c -16.8%, #2d27ff 138.64%);"></div>
+                        <div class="absolute top-0 left-0 w-full h-full z-10 rounded-[inherit] drop-shadow-[0px_0px_60px_rgba(59,130,246,0.6)]" style="filter: blur(150px); background: linear-gradient(135deg, #f936d9 -16.8%, #f936d9 138.64%);"></div>
                     </div>
-                    {{-- linear-gradient(135deg, #ff0a6c -16.8%, #2d27ff 138.64% --}}
+                    {{-- linear-gradient(135deg, #f936d9 -16.8%, #f936d9 138.64% --}}
                 <span
-                    class="flex group-hover:-top-14 ease-jump duration-200 bg-[#459bd5] sm:absolute left-1/2 sm:-translate-x-1/2 top-5 px-2 py-1 text-sm sm:text-base mt-2 rounded w-max items-center gap-1 after:hidden sm:after:block after:w-4 after:h-4 after:bg-inherit after:absolute after:left-1/2 after:-translate-x-1/2 after:rotate-45 after:-bottom-2">
+                    class="flex group-hover:-top-14 ease-jump duration-200 bg-[#5a40e8] sm:absolute left-1/2 sm:-translate-x-1/2 top-5 px-2 py-1 text-sm sm:text-base mt-2 rounded w-max items-center gap-1 after:hidden sm:after:block after:w-4 after:h-4 after:bg-inherit after:absolute after:left-1/2 after:-translate-x-1/2 after:rotate-45 after:-bottom-2">
                     ProCodrr
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
@@ -32,10 +33,10 @@
             </div>
         </a>
         <div class="w-full">
-            <h3 class="text-[#459bd5] font-bold text-2xl md:text-4xl">
+            <h3 class="text-[#5a40e8] font-bold text-2xl md:text-4xl">
                 ProCodrr
             </h3>
-            <span class="text-[#459bd5] text-base md:text-lg">(Coding Platform)</span>
+            <span class="text-[#5a40e8] text-base md:text-lg">(Coding Platform)</span>
             <p class="text-justify text-sm md:text-base mt-2">
                 Deeply understand advanced concepts, practice with real-world
                 exercises, build expertise with hands-on projects to boost your
@@ -113,7 +114,7 @@
                 </li>
             </ul>
         </div>
-        <div class="h-[1px] left-1/2 right-1/4 bg-[#1788ae] absolute top-1/2 hidden sm:block"></div>
+        <div class="h-[1px] left-1/2 right-1/4 bg-[#f936d9] absolute top-1/2 hidden sm:block"></div>
         <div
             class="w-4 h-4 rounded-full border-[3px] border-[#ffe578] absolute left-1/2 -translate-x-1/2 bg-[#111] z-10 hover:scale-110 ease-in-out duration-100 hidden sm:block">
         </div>
@@ -137,7 +138,7 @@
         </a>
     </div>
     <div class="flex flex-col sm:flex-row gap-4 mt-12 sm:gap-[80px] items-center sm:mt-20 relative">
-        <div class="h-[1px] left-1/4 right-1/2 bg-[#1788ae] absolute top-1/2 hidden sm:block"></div>
+        <div class="h-[1px] left-1/4 right-1/2 bg-[#f936d9] absolute top-1/2 hidden sm:block"></div>
         <div
             class="w-4 h-4 rounded-full border-[3px] border-[#fc815c] absolute left-1/2 -translate-x-1/2 bg-[#111] z-10 hover:scale-110 ease-in-out duration-100 hidden sm:block">
         </div>
@@ -200,10 +201,10 @@
     </div>
     <div class="flex flex-col sm:flex-row gap-4 mt-12 sm:gap-[80px] items-center sm:mt-20 relative">
         <div class="order-2 sm:order-1 w-full">
-            <h3 class="text-[#47afa1] font-bold text-2xl md:text-4xl">
+            <h3 class="text-[#5a40e8] font-bold text-2xl md:text-4xl">
                 Web Dev English
             </h3>
-            <span class="text-[#47afa1] text-base md:text-lg">(Coaching and Consulting)</span>
+            <span class="text-[#5a40e8] text-base md:text-lg">(Coaching and Consulting)</span>
             <p class="text-justify text-sm md:text-base mt-2">
                 Being a lead developer, revamped the site to a highly responsive,
                 and interactive website. Created new features and pages. Worked as a
@@ -239,20 +240,20 @@
                 </li>
             </ul>
         </div>
-        <div class="h-[1px] left-1/2 right-1/4 bg-[#1788ae] absolute top-1/2 hidden sm:block"></div>
+        <div class="h-[1px] left-1/2 right-1/4 bg-[#f936d9] absolute top-1/2 hidden sm:block"></div>
         <div
-            class="w-4 h-4 rounded-full border-[3px] border-[#47afa1] absolute left-1/2 -translate-x-1/2 bg-[#111] z-10 hover:scale-110 ease-in-out duration-100 hidden sm:block">
+            class="w-4 h-4 rounded-full border-[3px] border-[#5a40e8] absolute left-1/2 -translate-x-1/2 bg-[#111] z-10 hover:scale-110 ease-in-out duration-100 hidden sm:block">
         </div>
         <a href="#" class="order-1 sm:order-2 flex w-full relative justify-center sm:justify-start">
             <div
                 class="flex flex-col items-center relative group sm:hover:scale-105 ease-in-out duration-200 sm:ml-auto">
                 <div class="relative max-w-[400px] w-full mr-auto z-10">
                     <img class="relative z-20" src="{{ url('/assets/images/ProCodrr.webp') }}" alt="" />
-                    <div class="absolute top-0 left-0 w-full h-full z-10 rounded-[inherit] drop-shadow-[0px_0px_60px_rgba(59,130,246,0.6)]" style="filter: blur(150px); background: linear-gradient(135deg, #ff0a6c -16.8%, #2d27ff 138.64%);"></div>
+                    <div class="absolute top-0 left-0 w-full h-full z-10 rounded-[inherit] drop-shadow-[0px_0px_60px_rgba(59,130,246,0.6)]" style="filter: blur(150px); background: linear-gradient(135deg, #f936d9 -16.8%, #f936d9 138.64%);"></div>
                 </div>
                 
                 <span
-                    class="flex group-hover:-top-14 ease-jump duration-200 bg-[#47afa1] sm:absolute left-1/2 sm:-translate-x-1/2 top-5 px-2 py-1 text-sm sm:text-base mt-2 rounded w-max items-center gap-1 after:hidden sm:after:block after:w-4 after:h-4 after:bg-inherit after:absolute after:left-1/2 after:-translate-x-1/2 after:rotate-45 after:-bottom-2">
+                    class="flex group-hover:-top-14 ease-jump duration-200 bg-[#5a40e8] sm:absolute left-1/2 sm:-translate-x-1/2 top-5 px-2 py-1 text-sm sm:text-base mt-2 rounded w-max items-center gap-1 after:hidden sm:after:block after:w-4 after:h-4 after:bg-inherit after:absolute after:left-1/2 after:-translate-x-1/2 after:rotate-45 after:-bottom-2">
                     Web Dev English
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
@@ -266,7 +267,7 @@
         </a>
     </div>
     <div class="flex flex-col sm:flex-row gap-4 mt-12 sm:gap-[80px] items-center sm:mt-20 relative">
-        <div class="h-[1px] left-1/4 right-1/2 bg-[#1788ae] absolute top-1/2 hidden sm:block"></div>
+        <div class="h-[1px] left-1/4 right-1/2 bg-[#f936d9] absolute top-1/2 hidden sm:block"></div>
         <div
             class="w-4 h-4 rounded-full border-[3px] border-[#fc815c] absolute left-1/2 -translate-x-1/2 bg-[#111] z-10 hover:scale-110 ease-in-out duration-100 hidden sm:block">
         </div>
@@ -328,5 +329,5 @@
             </ul>
         </div>
     </div>
-    <div class="w-[2px] hidden sm:block bg-[#1788ae] absolute top-0 bottom-0 left-1/2 -translate-x-1/2"></div>
+    <div class="w-[2px] hidden sm:block bg-[#f936d9] absolute top-0 bottom-0 left-1/2 -translate-x-1/2"></div>
 </section>

@@ -1,68 +1,6 @@
 <footer class="flex flex-col items-center pb-10">
     <p class="text-xs text-gray-300">khem Raj © 2024</p>
     <div class="black-logo my-4">
-        {{-- <svg
-      width="50"
-      height="50"
-      viewBox="0 0 406 368"
-      fill="none"
-      xmlns="http://www.w3.org/2000/svg"
-    >
-      <path
-        d="M314.899 203.5L314.899 349.43L162.5 209.053M314.899 203.5L283.037 203.586M314.899 203.5L337.881 203.586L381 171.109L314.899 171.109M162.5 209.053L118.044 170.96L157.5 171.109M162.5 209.053L65.5 301.465L20.5595 301.465L137.482 189.156M200.5 171.109L283.037 96.5L283.037 171.109M200.5 171.109L283.037 171.109M200.5 171.109L157.5 171.109M283.037 203.586L210.846 203.123L283.037 271.086L283.037 203.586ZM283.037 171.109L314.899 171.109M157.5 171.109L316.135 20.4322L314.899 171.109"
-        stroke="#1F2667"
-        stroke-opacity="0.9"
-        stroke-width="16"
-      ></path>
-      <path
-        d="M314.899 203.5L314.899 349.43L162.5 209.053M314.899 203.5L283.037 203.586M314.899 203.5L337.881 203.586L381 171.109L314.899 171.109M162.5 209.053L118.044 170.96L157.5 171.109M162.5 209.053L65.5 301.465L20.5595 301.465L137.482 189.156M200.5 171.109L283.037 96.5L283.037 171.109M200.5 171.109L283.037 171.109M200.5 171.109L157.5 171.109M283.037 203.586L210.846 203.123L283.037 271.086L283.037 203.586ZM283.037 171.109L314.899 171.109M157.5 171.109L316.135 20.4322L314.899 171.109"
-        stroke="url(#paint0_linear)"
-        stroke-width="16"
-      ></path>
-      <defs>
-        <linearGradient
-          id="paint0_linear"
-          x1="205.549"
-          y1="20.0169"
-          x2="204.338"
-          y2="342.461"
-          gradientUnits="userSpaceOnUse"
-        >
-          <stop stop-color="#1595B6"></stop>
-          <stop offset="1" stop-color="#1595B6" stop-opacity="0"></stop>
-        </linearGradient>
-      </defs>
-    </svg> --}}
-      {{-- <svg width="70" height="70" viewBox="0 0 406 368" fill="none" xmlns="http://www.w3.org/2000/svg"">
-          <path d="M0 0V176H40V117L52 104L111 176H163L81 78L153 5.5C149.5 3 142 0 136 0H107L39.5 69L40 0H0Z"
-              fill="url(#paint0_linear_24_52)" />
-          <path d="M51 0V40L91 0H51Z" fill="url(#paint1_linear_24_52)" />
-          <path d="M164 8L135 38C166.2 53.2 146 79 131 79H95L175 176H214L158.5 110C216.9 67.6 186.5 24.3333 164 8Z"
-              fill="url(#paint2_linear_24_52)" />
-          <path d="M52 129.492V176H97L84.3301 161.881L55.3159 127L52 129.492Z" fill="url(#paint3_linear_24_52)" />
-          <defs>
-              <linearGradient id="paint0_linear_24_52" x1="33.4811" y1="12.2945" x2="71.7676" y2="184.502"
-                  gradientUnits="userSpaceOnUse">
-                  <stop stop-color="#1990BA" />
-                  <stop offset="1" stop-color="#194574" />
-              </linearGradient>
-              <linearGradient id="paint1_linear_24_52" x1="33.4811" y1="12.2945" x2="71.7676" y2="184.502"
-                  gradientUnits="userSpaceOnUse">
-                  <stop stop-color="#1990BA" />
-                  <stop offset="1" stop-color="#194574" />
-              </linearGradient>
-              <linearGradient id="paint2_linear_24_52" x1="33.4811" y1="12.2945" x2="71.7676" y2="184.502"
-                  gradientUnits="userSpaceOnUse">
-                  <stop stop-color="#1990BA" />
-                  <stop offset="1" stop-color="#194574" />
-              </linearGradient>
-              <linearGradient id="paint3_linear_24_52" x1="33.4811" y1="12.2945" x2="71.7676" y2="184.502"
-                  gradientUnits="userSpaceOnUse">
-                  <stop stop-color="#1990BA" />
-                  <stop offset="1" stop-color="#194574" />
-              </linearGradient>
-          </defs>
-      </svg> --}}
       <svg width="70" height="70" viewBox="0 0 406 368" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M2 2V178H42V119L54 106L113 178H165L83 80L155 7.5C151.5 5 144 2 138 2H109L41.5 71L42 2H2Z"
               stroke="url(#paint0_linear_23_2)" stroke-width="4" />

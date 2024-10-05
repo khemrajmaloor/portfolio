@@ -1,7 +1,7 @@
 {{-- let contact section --}}
 <section class="max-w-screen-xl mx-auto px-4 pb-12">
     <h2
-        class="text-3xl sm:text-[40px] bg-[#111] relative z-10 font-bold px-4 py-2 w-max mx-auto text-center text-[#1788ae] sm:border-2 border-[#1788ae] rounded-md">
+        class="text-3xl sm:text-[40px] bg-[#111] relative z-10 font-bold px-4 py-2 w-max mx-auto text-center text-[#5a40e8] sm:border-2 border-[#5a40e8] rounded-md">
         Let's Connect
     </h2>
     <div class="flex flex-col md:flex-row items-center mt-10">
@@ -20,7 +20,7 @@
                     </svg>
                 </div>
                 <input type="text" id="name" name="name"
-                    class="bg-gray-50 border-2 outline-none border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-[#1788ae] focus:border-[#1788ae] block w-full ps-10 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white"
+                    class="bg-gray-50 border-2 outline-none border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-[#5a40e8] focus:border-[#5a40e8] block w-full ps-10 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white"
                     placeholder="Enter your name" required />
             </div>
             <label for="email" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Your
@@ -36,17 +36,17 @@
                     </svg>
                 </div>
                 <input type="text" id="email" name="email"
-                    class="bg-gray-50 border-2 outline-none border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-[#1788ae] focus:border-[#1788ae] block w-full ps-10 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white"
+                    class="bg-gray-50 border-2 outline-none border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-[#5a40e8] focus:border-[#5a40e8] block w-full ps-10 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white"
                     placeholder="name@rajor.com" required />
             </div>
             <label for="message" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Message</label>
             <div class="relative mb-4">
                 <div class="absolute inset-y-0 start-0 flex items-center ps-3.5 pointer-events-none"></div>
                 <textarea id="message" name="message" rows="8"
-                    class="bg-gray-50 border-2 outline-none border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-[#1788ae] focus:border-[#1788ae] block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white"></textarea>
+                    class="bg-gray-50 border-2 outline-none border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-[#5a40e8] focus:border-[#5a40e8] block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white"></textarea>
             </div>
             <button type="submit"
-                class="w-full text-white bg-[#1788ae] hover:bg-[#1280a4] focus:ring-4 focus:ring-[#4489a0] font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 focus:outline-none">
+                class="w-full text-white bg-[#5a40e8] hover:bg-[#ff0a6c] focus:ring-4 focus:ring-[#4489a0] font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 focus:outline-none">
                 Send
             </button>
             @if (session('success'))
