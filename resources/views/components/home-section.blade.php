@@ -13,23 +13,23 @@
             <defs>
                 <linearGradient id="paint0_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502"
                     gradientUnits="userSpaceOnUse">
-                    {{-- linear-gradient(135deg,#ff0a6c,#5a40e8) --}}
-                    <stop stop-color="#ff0a6c" /> <!-- Yellow -->
+                    {{-- linear-gradient(135deg,#f936d9,#5a40e8) --}}
+                    <stop stop-color="#f936d9" /> <!-- Yellow -->
                     <stop offset="1" stop-color="#5a40e8" /> <!-- Dark Orange -->
                 </linearGradient>
                 <linearGradient id="paint1_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502"
                     gradientUnits="userSpaceOnUse">
-                    <stop stop-color="#ff0a6c" /> <!-- Yellow -->
+                    <stop stop-color="#f936d9" /> <!-- Yellow -->
                     <stop offset="1" stop-color="#5a40e8" /> <!-- Dark Orange -->
                 </linearGradient>
                 <linearGradient id="paint2_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502"
                     gradientUnits="userSpaceOnUse">
-                    <stop stop-color="#ff0a6c" /> <!-- Yellow -->
+                    <stop stop-color="#f936d9" /> <!-- Yellow -->
                     <stop offset="1" stop-color="#5a40e8" /> <!-- Dark Orange -->
                 </linearGradient>
                 <linearGradient id="paint3_linear_23_2" x1="35.4811" y1="14.2945" x2="73.7676" y2="186.502"
                     gradientUnits="userSpaceOnUse">
-                    <stop stop-color="#ff0a6c" /> <!-- Yellow -->
+                    <stop stop-color="#f936d9" /> <!-- Yellow -->
                     <stop offset="1" stop-color="#5a40e8" /> <!-- Dark Orange -->
                 </linearGradient>
             </defs>
@@ -89,19 +89,19 @@
                     fill="url(#paint3_linear_24_52)" />
                 <defs>
                     <linearGradient id="paint0_linear_24_52" x1="33.4811" y1="12.2945" x2="71.7676" y2="184.502" gradientUnits="userSpaceOnUse">
-                        <stop stop-color="#ff0a6c" /> <!-- Yellow -->
+                        <stop stop-color="#f936d9" /> <!-- Yellow -->
                         <stop offset="1" stop-color="#5a40e8" /> <!-- Dark Orange -->
                     </linearGradient>
                     <linearGradient id="paint1_linear_24_52" x1="33.4811" y1="12.2945" x2="71.7676" y2="184.502" gradientUnits="userSpaceOnUse">
-                        <stop stop-color="#ff0a6c" /> <!-- Yellow -->
+                        <stop stop-color="#f936d9" /> <!-- Yellow -->
                         <stop offset="1" stop-color="#5a40e8" /> <!-- Dark Orange -->
                     </linearGradient>
                     <linearGradient id="paint2_linear_24_52" x1="33.4811" y1="12.2945" x2="71.7676" y2="184.502" gradientUnits="userSpaceOnUse">
-                        <stop stop-color="#ff0a6c" /> <!-- Yellow -->
+                        <stop stop-color="#f936d9" /> <!-- Yellow -->
                         <stop offset="1" stop-color="#5a40e8" /> <!-- Dark Orange -->
                     </linearGradient>
                     <linearGradient id="paint3_linear_24_52" x1="33.4811" y1="12.2945" x2="71.7676" y2="184.502" gradientUnits="userSpaceOnUse">
-                        <stop stop-color="#ff0a6c" /> <!-- Yellow -->
+                        <stop stop-color="#f936d9" /> <!-- Yellow -->
                         <stop offset="1" stop-color="#5a40e8" /> <!-- Dark Orange -->
                     </linearGradient>
                 </defs>
@@ -113,9 +113,9 @@
                     Khem Raj
                 </h1>
                 <p class="pointer-events-none font-['Merriweather'] italic my-4 md:my-8">PHP Developer </p>
-                 {{-- linear-gradient(135deg,#ff0a6c,#5a40e8) --}}
+                 {{-- linear-gradient(135deg,#f936d9,#5a40e8) --}}
                 <button
-                    class="bg-[#ff0a6c] py-2 px-5 rounded font-extrabold bg-gradient-to-l from-[#ff0a6c] to-[#1f2667e6] relative hover:scale-110 ease-in-out duration-100 group">
+                    class="bg-[#f936d9] py-2 px-5 rounded font-extrabold bg-gradient-to-l from-[#f936d9] to-[#1f2667e6] relative hover:scale-110 ease-in-out duration-100 group">
                     About me
                     <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
                         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
@@ -190,7 +190,7 @@
     <div
         class="relative self-center after:content-[''] after:absolute after:w-[2px] after:h-5 after:bg-[#444] after:left-1/2 after:-translate-x-1/2 after:top-[100px]" id="letest_work">
         <button
-            class="bg-[#FFD700] py-2 px-5 rounded font-extrabold bg-gradient-to-l from-[#5a40e8] to-[#ff0a6c] relative hover:scale-110 ease-in-out duration-100 group mb-20">
+            class="bg-[#FFD700] py-2 px-5 rounded font-extrabold bg-gradient-to-l from-[#5a40e8] to-[#f936d9] relative hover:scale-110 ease-in-out duration-100 group mb-20">
             Latest Works
             <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
                 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"

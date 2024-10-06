@@ -1,7 +1,7 @@
 {{-- let contact section --}}
 <section class="max-w-screen-xl mx-auto px-4 pb-12">
     <h2
-        class="text-3xl sm:text-[40px] bg-[#111] relative z-10 font-bold px-4 py-2 w-max mx-auto text-center text-[#5a40e8] sm:border-2 border-[#5a40e8] rounded-md">
+        class="text-3xl sm:text-[40px]  relative z-10 font-bold px-4 py-2 w-max mx-auto text-center text-[#f936d9] sm:border-2 border-[#f936d9] rounded-md">
         Let's Connect
     </h2>
     <div class="flex flex-col md:flex-row items-center mt-10">
@@ -46,7 +46,7 @@
                     class="bg-gray-50 border-2 outline-none border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-[#5a40e8] focus:border-[#5a40e8] block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white"></textarea>
             </div>
             <button type="submit"
-                class="w-full text-white bg-[#5a40e8] hover:bg-[#ff0a6c] focus:ring-4 focus:ring-[#4489a0] font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 focus:outline-none">
+                class="w-full text-white bg-[#f936d9] hover:bg-[#f936d9] focus:ring-4 focus:ring-[#4489a0] font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 focus:outline-none">
                 Send
             </button>
             @if (session('success'))

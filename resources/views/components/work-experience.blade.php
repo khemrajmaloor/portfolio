@@ -1,8 +1,8 @@
 {{-- Work experience section here.. --}}
 <section class="max-w-screen-xl mx-auto pb-12">
     <h2
-        class="text-3xl sm:text-[40px] bg-[#111] sm:w-max relative z-10 font-bold px-4 py-2 mx-auto text-center text-[#5a40e8] sm:border-2 border-[#5a40e8] rounded-md">
-        What my clients are saying?
+        class="text-3xl sm:text-[40px]  sm:w-max relative z-10 font-bold px-4 py-2 mx-auto text-center text-[#f936d9] sm:border-2 border-[#f936d9] rounded-md">
+      Work Experience
     </h2>
     <div class="swiper mySwiper !py-14">
         <div class="swiper-wrapper items-center">
